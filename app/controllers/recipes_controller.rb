@@ -26,3 +26,5 @@ class RecipesController < ApplicationController
            :quantity
          ] )
   end
+
+end
