@@ -26,4 +26,4 @@ class RecipesController < ApplicationController
            :quantity
          ] )
   end
-en
+end
